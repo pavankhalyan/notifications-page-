@@ -1,0 +1,218 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+html,body{
+    height: 100vh;
+    width: 100vw;
+}
+
+.box{
+background-color: whitesmoke;
+}
+
+.container{
+    margin-top: 75px;
+    display: flex;
+    justify-content: center;
+}
+
+.box{
+    border-radius: 3%;
+    height: 85vh;
+    width: 75vh;
+}
+
+.navbar{
+    height: 10%;
+    display: flex;
+    align-items: center;
+}
+
+h4{
+    position: sticky;
+    color: black;
+    padding-left: 5px;
+}
+
+
+.left{
+    width: 30vh;
+    padding-left: 25px;
+}
+
+.right{
+    width: 35vh;
+    padding-left: 25%;
+
+}
+
+.innerbox{
+    height: 90%;
+    justify-content: center;
+}
+
+.firstbox{
+    height: 10%;
+    width: 95%;
+    display: flex;
+    margin-left: 20px;
+    border-radius: 5px;
+    background-color: aliceblue;
+}
+
+.profile{
+    display: flex;
+    align-items: center;
+}
+
+#profile{
+   height: 40px;
+}
+
+.right1{
+    width: 90%;
+    display: flex;
+    align-items: center;
+}
+
+b{
+    padding-left: 10px;
+}
+
+.secondbox{
+    height: 10%;
+    width: 95%;
+    display: flex;
+    margin-left: 20px;
+    margin-top: 3px;
+    border-radius: 5px;
+    background-color: aliceblue;
+}
+
+#profile1{
+    height: 40px;
+    margin-top: 3px;
+}
+
+.right2{
+    width: 90%;
+    display: flex;
+    align-items: center;
+}
+
+.thirdbox{
+    display: flex;
+    height: 10%;
+    width: 95%;
+    margin-left: 20px;
+    margin-top: 3px;
+    border-radius: 5px;
+    background-color: aliceblue;
+}
+
+#profile2{
+    height: 40px;
+    margin-top: 3px;
+}
+
+.right3{
+    width: 90%;
+    display: flex;
+    align-items: center;
+}
+
+.fourthbox{
+    display: flex;
+    height: 24%;
+    width: 95%;
+    margin-left: 20px;
+    margin-top: 3px;
+    border-radius: 5px;
+}
+
+#profile3{
+    height: 40px;
+    margin-top: 3px;
+}
+
+.right4{
+   width: 105%;
+   display: flex;
+   align-items: center;
+}
+
+.up{
+   height: 50px;
+   width: 90%;
+}
+
+.down{
+   height: 150%;
+   display: flex;
+   border-radius: 5px;
+   margin-top: 30px;
+   background-color: aliceblue;
+}
+
+.fifthbox{
+    display: flex;
+    height: 10%;
+    width: 95%;
+    margin-left: 20px;
+    margin-top: 3px;
+    border-radius: 5px;
+}
+
+#profile4{
+    height: 40px;
+    margin-top: 3px;
+}
+
+.right5{
+    width: 90%;
+    display: flex;
+    align-items: center;
+}
+
+.sixthbox{
+    display: flex;
+    height: 10%;
+    width: 95%;
+    margin-left: 20px;
+    margin-top: 3px;
+    border-radius: 5px;
+}
+
+#profile5{
+    height: 40px;
+    margin-top: 3px;
+}
+
+.right6{
+    width: 90%;
+    display: flex;
+    align-items: center;
+}
+
+.seventhbox{
+    display: flex;
+    height: 10%;
+    width: 95%;
+    margin-left: 20px;
+    margin-top: 3px;
+    border-radius: 5px;
+}
+
+#profile6{
+    height: 40px;
+    margin-top: 3px;
+}
+
+.right7{
+    width: 90%;
+    display: flex;
+    align-items: center;
+}
